@@ -5,11 +5,8 @@ A simple calculator project built with HTML, CSS, and JavaScript.
 A simple and stylish calculator built with **HTML, CSS, and JavaScript**.  
 Perform basic arithmetic easily with a clean and minimal interface. 🚀
 
----
 
-## ✨ Features
-- Enter numbers including decimals  
-- Use keyboard keys to input numbers and operators   
+
 
 ---
 
